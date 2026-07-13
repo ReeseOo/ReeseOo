@@ -2,10 +2,11 @@
 
 I'm Reese, and I'm going to UCLA taking Computer Engineering.
 
-At UCLA, I'm interested in joining Bruin Racing and getting into PCB design and embdedded systems.f
+At UCLA, I'm interested in joining Bruin Racing and getting into PCB design and embdedded systems.
 
 
 ## Some contributions I'm proud of
+### Lead programmer
 For one year I was lead programmer for my FRC (First Robotics Competition) team
 - Set up a vision subsystem to help scan Apriltags during matches
 - Wrote code designed to use those scans to align to our robot to aim for its target
