@@ -17,7 +17,7 @@ For one year I was lead programmer for my FRC (First Robotics Competition) team
 - Family prints out labels needed for their sushi products; labels need to be rolled up
 - Normally takes ~5 minutes for one full roll of labels to roll up, but my roller cuts it down to ~30 seconds
 - Could roll 300 labels a minute.
-<img height="1080" alt="electric label roller" src="https://github.com/user-attachments/assets/0e57f8b7-9ff6-4c5e-a4d0-e26970d68a88" />
+<img height="500px" alt="electric label roller" src="https://github.com/user-attachments/assets/0e57f8b7-9ff6-4c5e-a4d0-e26970d68a88" />
 
 
 ### A weighted sled 
@@ -25,7 +25,7 @@ For one year I was lead programmer for my FRC (First Robotics Competition) team
 - Weight is added onto the middle pole
 - Two other poles at the front can be used to push the sled.
 - Hooks are attached at the other end, allowing for a rope to pull the sled.
-<img height="1080" alt="weighted sled" src="https://github.com/user-attachments/assets/1349cdba-1dd7-487d-875b-1b78d74064b5" />
+<img height="500px" alt="weighted sled" src="https://github.com/user-attachments/assets/1349cdba-1dd7-487d-875b-1b78d74064b5" />
 
 
 ### More facts about me
