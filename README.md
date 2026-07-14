@@ -1,8 +1,6 @@
 ### Hello! I'm Reese
 
-I'm Reese, and I'm going to UCLA taking Computer Engineering.
-
-Incoming CE freshman at UCLA (Class of 2030), interested in computer hardware and PCB designing
+Incoming Computer Engineering freshman at UCLA (Class of 2030), interested in computer hardware and PCB designing
 
 **Recent project:** [Reaction Timer]https://github.com/ReeseOo/reactionTimeGame — Arduino Nano, interrupt-driven button timing, reaction speed logged over serial
 
