@@ -2,7 +2,7 @@
 
 Incoming Computer Engineering freshman at UCLA (Class of 2030), interested in computer hardware and PCB designing
 
-**Recent project:** [Reaction Timer](https://github.com/ReeseOo/reactionTimeGame) — Arduino Nano, interrupt-driven button timing, reaction speed logged over serial
+**Recent project:** [reactionTimeGame](https://github.com/ReeseOo/reactionTimeGame) — Arduino Nano, interrupt-driven button timing, reaction speed logged over serial
 
 
 ### Facts about me
