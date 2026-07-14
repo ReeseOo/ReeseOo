@@ -1,4 +1,4 @@
-### Hello! I'm Reese
+# Hello! I'm Reese
 
 Incoming Computer Engineering freshman at UCLA (Class of 2030), interested in computer hardware and PCB designing
 
