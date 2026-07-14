@@ -1,13 +1,26 @@
-## Hello!
+### Hello! I'm Reese
 
 I'm Reese, and I'm going to UCLA taking Computer Engineering.
 
-At UCLA, I'm interested in joining Bruin Racing and getting into PCB design and embdedded systems.
+Incoming CE freshman at UCLA (Class of 2030), interested in computer hardware and PCB designing
+
+**Recent project:** [Reaction Timer]https://github.com/ReeseOo/reactionTimeGame — Arduino Nano, interrupt-driven button timing, reaction speed logged over serial
 
 
-## Some contributions I'm proud of
+### Facts about me
+
+- 🔭 I’m currently working on building a mechanical hand
+- 🌱 I’m currently learning how to make PCBs in KiCad
+- 👯 I’m looking to collaborate on building a formula racing car for UCLA's Bruin Racing team
+- 🤔 I’m looking for help with designing PCBs and a project workflow
+- 💬 Ask me about rock climbing techniques!
+- 📫 How to reach me: Reese Oo (LinkedIn)
+- ⚡ Fun fact: I am biologically Chinese yet my parents originate from Burma (Myanmar), and I was born in Michigan.
+
+
+## Some projects I'm proud of
 ### Lead programmer
-For one year I was lead programmer for my FRC (First Robotics Competition) team
+I was lead programmer for my FRC (First Robotics Competition) team
 - Set up a vision subsystem to help scan Apriltags during matches
 - Wrote code designed to use those scans to align to our robot to aim for its target
 - Soldered and chose hardware with budget constraints
@@ -36,12 +49,3 @@ For one year I was lead programmer for my FRC (First Robotics Competition) team
 </div>
 
 
-### More facts about me
-
-- 🔭 I’m currently working on building a mechanical hand
-- 🌱 I’m currently learning how to make PCBs in KiCad
-- 👯 I’m looking to collaborate on building a formula racing car for UCLA's Bruin Racing team
-- 🤔 I’m looking for help with designing PCBs and a project workflow
-- 💬 Ask me about rock climbing techniques!
-- 📫 How to reach me: Reese Oo (LinkedIn)
-- ⚡ Fun fact: I am biologically Chinese yet my parents originate from Burma (Myanmar), and I was born in Michigan. 
